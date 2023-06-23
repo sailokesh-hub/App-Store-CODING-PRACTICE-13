@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.app-item {
+  width: 160px;
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.img {
+  width: 60px;
+  align-self: auto;
+}
+
+.para {
+  font-size: 20px;
+  align-self: auto;
+}
